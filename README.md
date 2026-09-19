@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20[Nama%20Kamu]&fontSize=40&fontColor=ffffff" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4cd137&height=200&section=header&text=Halo,%20Saya%20VeronicA-bin&fontSize=40&fontColor=ffffff" alt="banner" />
 </p>
 
-<h1 align="center">[Nama Kamu]</h1>
-<p align="center">[Role/Status singkat, contoh: "Peserta Workshop Git & GitHub | Junior Frontend Enthusiast"]</p>
+<h1 align="center">VeronicA-bin</h1>
+<p align="center">Seorang Pengangguran</p>
 
 ---
 
 ### Details / About Me
 
-- **Pekerjaan Saat ini**: [contoh: Mahasiswa/Karyawan di ...]
-- **Sedang mendalami**: [contoh: React.js, Git & GitHub Workflow]
-- **Target**: [contoh: Menjadi Frontend Developer profesional]
-- **Fun fact**: [isi sesuatu yang unik tentang kamu]
+- **Pekerjaan Saat ini**: Pengangguran 
+- **Sedang mendalami**: GitHub Workflow , Reverse Engineering
+- **Target**: Makan
+- **Fun fact**: Penggangguran akut
 
 ---
 
-### Connect with Me
+### Connect with Me (Don't have)
 
 <p align="left">
   <a href="https://linkedin.com/in/username-kamu" target="_blank">
@@ -44,8 +44,8 @@
 
 ---
 
-### GitHub Stats (opsional)
+### GitHub Stats 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VeronicA-bin&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
